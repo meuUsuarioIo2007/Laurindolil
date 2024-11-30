@@ -140,6 +140,7 @@ img.svg{
 /*---------------------------------------------------*/
 
 .elenor_tm_header{
+    background-color: #041230;
 	width: 100%;
 	height: auto;
 	clear: both;
@@ -2403,11 +2404,6 @@ img.svg{
 .elenor_tm_ripple_wrap .container{
 	height: 100%;
 	z-index: 2;
-}
-
-.ezibir{
-	display: none;
-
 }
 
 /*---------------------------------------------------*/
